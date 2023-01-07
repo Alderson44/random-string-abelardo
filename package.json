@@ -1,0 +1,27 @@
+{
+  "name": "random-string-abelardo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alderson44/random-string-abelardo.git"
+  },
+  "keywords": [],
+  "author": "Abelardo Sepulveda <abelardo.ingles@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alderson44/random-string-abelardo/issues"
+  },
+  "homepage": "https://github.com/Alderson44/random-string-abelardo#readme",
+  "bin": {
+    "random-string-abelardo": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
